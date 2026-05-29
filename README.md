@@ -1,1 +1,2 @@
-# Project-Metode-Numerik
+# ProjectMetodeNumerik
+Metode Numerik Kelompok 5
